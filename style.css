@@ -1,0 +1,14 @@
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(141, 141, 141);
+    line-height: 3;
+    text-align: center;
+}
+h3
+{
+    font-size: 25px;
+}
